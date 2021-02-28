@@ -1,0 +1,12 @@
+[package]
+name = "rust_simplex"
+version = "0.1.0"
+authors = ["aymericdelabrousse <aymericdelabrousse@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ordered-float = "2.0"
+
+
